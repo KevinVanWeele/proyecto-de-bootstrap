@@ -7,4 +7,53 @@
   height: auto;
 }
 
+main {
+  background-color: #000;
+}
+
+p {
+  color: #fff;
+}
+
+.img-fluidimg {
+  width: 250px;
+  height: auto;
+}
+
+.personajes {
+  background-color: white;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+.armas {
+  background-color: white;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+label {
+  color: #fff;
+}
+
+h1 {
+  color: #fff;
+}
+
+h4 {
+  color: #fff;
+}
+
+h3 {
+  color: #fff;
+}
+
+header {
+  background-image: linear-gradient(to bottom, #fff, #000);
+}
+
+footer {
+  background-image: linear-gradient(to bottom, #000, #fff);
+}
+
 /*# sourceMappingURL=style.css.map */

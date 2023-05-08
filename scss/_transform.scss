@@ -1,0 +1,12 @@
+.armas{
+    transition: all 1s;
+    &:hover{
+        transform:translateY(-10px);
+    }
+}
+.personajes{
+    transition: all 1s;
+    &:hover{
+        transform:translateY(-10px);
+    }
+}

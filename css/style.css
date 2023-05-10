@@ -75,7 +75,7 @@ body {
 }
 
 .img-fluidop {
-  width: 400px;
+  width: 350px;
   height: auto;
 }
 
@@ -95,6 +95,18 @@ h1 {
 
 .bs-black {
   color: #000;
+}
+
+.opib {
+  color: #fff;
+}
+
+.redesb {
+  color: #000;
+}
+
+.quienessonb {
+  font-size: 20px;
 }
 
 /*# sourceMappingURL=style.css.map */
